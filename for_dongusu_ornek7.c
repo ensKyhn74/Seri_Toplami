@@ -18,7 +18,6 @@ int main()
   
  for(i = 1 ; i <= x ; i++)
  {
-      
     if(i % 2 == 0)
     {
      sonuc -= i;   
